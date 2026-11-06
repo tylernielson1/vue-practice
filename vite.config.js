@@ -19,6 +19,8 @@ export default defineConfig({
         assign3: resolve(__dirname, 'basics-assignment-3-problem/index.html'),
         ex6: resolve(__dirname, 'basics-10-styling-starting-setup/index.html'),
         assign4: resolve(__dirname, 'basics-assignment-4-problem/index.html'),
+        ex7: resolve(__dirname, 'lists-cond-01-starting-setup/index.html'),
+        assign5: resolve(__dirname, 'lists-cond-assignment-problem/index.html'),
       },
     },
   },
