@@ -21,6 +21,7 @@ export default defineConfig({
         assign4: resolve(__dirname, 'basics-assignment-4-problem/index.html'),
         ex7: resolve(__dirname, 'lists-cond-01-starting-setup/index.html'),
         assign5: resolve(__dirname, 'lists-cond-assignment-problem/index.html'),
+        project1: resolve(__dirname, 'prj-monster-01-starting-setup/index.html'),
       },
     },
   },
