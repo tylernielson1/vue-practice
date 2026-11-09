@@ -22,7 +22,8 @@ export default defineConfig({
         ex7: resolve(__dirname, 'lists-cond-01-starting-setup/index.html'),
         assign5: resolve(__dirname, 'lists-cond-assignment-problem/index.html'),
         project1: resolve(__dirname, 'prj-monster-01-starting-setup/index.html'),
-        ex8: resolve(__dirname, 'behind-scenes-01-starting-setup/index.html')
+        ex8: resolve(__dirname, 'behind-scenes-01-starting-setup/index.html'),
+        ex9: resolve(__dirname, 'cmp-intro-01-starting-setup/index.html')
       },
     },
   },
