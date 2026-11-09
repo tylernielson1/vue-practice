@@ -25,6 +25,8 @@ export default defineConfig({
         ex8: resolve(__dirname, 'modules/behind-the-scenes/behind-scenes-01-starting-setup/index.html'),
         ex9: resolve(__dirname, 'modules/components-intro/cmp-intro-01-starting-setup/index.html'),
         ex10: resolve(__dirname, 'modules/component-communication/cmp-communication-01-starting-setup/index.html'),
+        assign6: resolve(__dirname, 'modules/component-communication/cmp-communication-assignment-problem/index.html'),
+        ex11: resolve(__dirname, 'modules/component-communication/cmp-communication-08-a-potential-problem-starting-setup/index.html')
       },
     },
   },
