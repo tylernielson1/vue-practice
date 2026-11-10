@@ -28,7 +28,10 @@ export default defineConfig({
         assign6: resolve(__dirname, 'modules/component-communication/cmp-communication-assignment-problem/index.html'),
         ex11: resolve(__dirname, 'modules/component-communication/cmp-communication-08-a-potential-problem-starting-setup/index.html'),
         ex12: resolve(__dirname, 'modules/components-advanced/cmp-adv-01-starting-setup/index.html'),
-        project2: resolve(__dirname, 'projects/prj-components-01-starting-setup/index.html')
+        project2: resolve(__dirname, 'projects/prj-components-01-starting-setup/index.html'),
+        ex13: resolve(__dirname, 'modules/forms/forms-01-starting-setup/index.html'),
+        ex14: resolve(__dirname, 'modules/http/http-01-starting-setup/index.html'),
+        ex15: resolve(__dirname, 'modules/routing/routing-01-starting-setup/index.html')
       },
     },
   },
