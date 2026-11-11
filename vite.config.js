@@ -31,7 +31,9 @@ export default defineConfig({
         project2: resolve(__dirname, 'projects/prj-components-01-starting-setup/index.html'),
         ex13: resolve(__dirname, 'modules/forms/forms-01-starting-setup/index.html'),
         ex14: resolve(__dirname, 'modules/http/http-01-starting-setup/index.html'),
-        ex15: resolve(__dirname, 'modules/routing/routing-01-starting-setup/index.html')
+        ex15: resolve(__dirname, 'modules/routing/routing-01-starting-setup/index.html'),
+        ex16: resolve(__dirname, 'modules/vuex/vuex-01-starting-setup/index.html'),
+        ex17: resolve(__dirname, 'modules/vuex/vuex-11-a-challenge/index.html')
       },
     },
   },
